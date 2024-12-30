@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(126, 145, 139);
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .title {
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .move-icon {
+    height: 100px;
+  }
+
+  .rock {
+    height: 90px;
+    width: 85px;
+  }
+
+  .move-button {
+    background-color: transparent;
+    border: none;
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+
+  .result {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+  }
+
+  .score {
+    margin-top: 60px;
+  }
+
+  .reset-score-button {
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+  }
